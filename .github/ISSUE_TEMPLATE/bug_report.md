@@ -1,3 +1,10 @@
+---
+name: Bug report
+about: If it can be reproduced it can be fixed!
+labels: bug
+
+---
+
 // REMOVE LINES WITH SLASHES, LIKE THIS
 
 **Steps to reproduce**
@@ -23,7 +30,7 @@
 
 **See also**
 
-// Links to discussion on community.nethserver.org and other web sites
+// Links to other issues, milestones, wikis, project cards, other web sites
 
 ----
 
