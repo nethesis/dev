@@ -2,16 +2,9 @@
 
 ## Opening an issue
 
-Issues must be opened only inside the **dev** repository. Each issue should have an associated _milestone_.
+Issues must be opened only inside the **dev** repository. Fill in one of the available issue templates:
 
-A milestone tracks an existing project. Examples:
-
-* NethServer Enterprise 6
-* NethServer Enterprise 7
-* NethVoice 11
-* NethVoice 14
-
-Milestone list: https://github.com/Nethesis/dev/milestones
+https://github.com/nethesis/dev/issues/new/choose
 
 ## Wiki usage
 
